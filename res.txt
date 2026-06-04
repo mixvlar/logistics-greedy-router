@@ -1,0 +1,8 @@
+<Trucks' loading report>
+
+Truck's id: 101 | Zone: center | Weight: 10/20
+ Order's list: 1, 2
+----------------------------------------------------------
+
+ Unassigned orders:
+All orders are distributed!
