@@ -1,1 +1,5 @@
-tests/
+extern/
+build/
+*.o
+*.so
+*.a
