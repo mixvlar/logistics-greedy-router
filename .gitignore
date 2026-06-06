@@ -1,5 +1,6 @@
 extern/
 build/
+data/
 *.o
 *.so
 *.a

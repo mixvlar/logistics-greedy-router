@@ -3,7 +3,6 @@
 #include <vector>
 
 
-
 struct Order {
     unsigned int id;
     double weight;

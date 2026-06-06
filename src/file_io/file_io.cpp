@@ -62,6 +62,9 @@ bool load_trucks(const string& filename, vector<Truck>& trucks) {
             truck.max_capacity = stod(capacity_str);
             truck.zone = zone;
             truck.current_weight = 0.0;
+            string base_point;
+            if (getline(ss, base_point, ','))
+                truck.base_point = base_point;
             trucks.push_back(truck);
         }
     }
